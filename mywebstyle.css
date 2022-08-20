@@ -154,7 +154,7 @@ body{
 }
 
 .homesection .h1{
-	font-size: 75px;
+	font-size: 70px;
 	margin-top: 250px;
 	margin-bottom: 20px;
 	border-radius: 20px;
@@ -748,7 +748,7 @@ body{
 	border-radius: 20px;
 	background-color: yellow;
 }
-@media screen and (min-width:480px) {
+@media screen and (min-width:580px) {
 	.subject-list{
 		margin-left: 10px;
 		margin-right: 10px;
@@ -782,7 +782,7 @@ body{
 	}
 	.homesection .h1{
 		margin-bottom: 20px;
-		font-size: 50px;
+		font-size: 70px;
 		
 	}
 	.homesection .h2{
@@ -794,3 +794,9 @@ body{
 		margin-top: 20px;
 	}
 }
+@media screen and (max-width:1200px) {
+	.homesection .h1{
+		font-size: 50px;
+		margin-top: 800px;
+
+	}
