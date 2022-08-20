@@ -650,7 +650,7 @@ body{
 
 }
 .bottombackground p{
-	color: red;
+	color: whitesmoke;
 	font-size: 20px;
 	text-align: center;
 	margin-left: 30px;
@@ -713,13 +713,15 @@ body{
 }
 .comment-div{
 	
-	background-color: salmon;
+	
 	margin-left: 40px;
 	margin-right: 40px;
 	margin-top: 20px;
 	margin-bottom: 20px;
 	border-radius: 15px;
 	border: 2px solid brown;
+	padding-top: 5px;
+	padding-bottom: 5px;
 }
 .comment-div p{
 	color:black;
